@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "Chair", "price": 50, "image": "images/products/chair1.jpg" },
+    { "id": 2, "name": "Table", "price": 150, "image": "images/products/table1.jpg" },
+    { "id": 3, "name": "Sofa", "price": 300, "image": "images/products/sofa1.jpg" },
+    { "id": 4, "name": "Bed", "price": 500, "image": "images/products/bed1.jpg" }
+]
